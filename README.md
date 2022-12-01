@@ -34,18 +34,18 @@ Contiene dos roles de usuario:
 
     *BASE DE DATOS
     Para no perder informacion importante en la base de datos realizar una restauracion de base de datos en MySQL 
-    (para esta procedimiento se diseño un manual con  capturas de pantalla que puede consultar en el sigueinte enlace)
-     https://drive.google.com/file/d/1-RulEPxkkprKqC_J_w4x4R3BhjJ7eTcU/view?usp=sharing
+    (para esta procedimiento se diseño un manual con  capturas de pantalla que puede consultar en el sigueinte enlace).
+    https://drive.google.com/file/d/1-RulEPxkkprKqC_J_w4x4R3BhjJ7eTcU/view?usp=sharing
 
     *APLICACION WEB
-  1.- Descomprimir archivo El_tigre.zip
-  2.- Abrir carpeta descomprimida con VISUAL STUDIO CODE
-  3.- Abrir una terminal de visual studio code, verificar que este en el directorio de la carpeta 
-  4.- Ejecutar el siguiente comando php artisan serve
-  5.- En su navegador colocar la suiente URL http://127.0.0.1:8000/
+    1.- Descomprimir archivo El_tigre.zip
+    2.- Abrir carpeta descomprimida con VISUAL STUDIO CODE
+    3.- Abrir una terminal de visual studio code, verificar que este en el directorio de la carpeta 
+    4.- Ejecutar el siguiente comando php artisan serve
+    5.- En su navegador colocar la suiente URL http://127.0.0.1:8000/
 
 # Bugs conocidos y posibles correcciones de errores:
-  404 No encontrado(mal direccionamiento) abandonar pagina mientras se le continua dando mantenimiento
-  "SQLSTATE[42S02]" en el .env no esta bien configurada la base de datos(posibles errores de base de datos) 
+    404 No encontrado(mal direccionamiento) abandonar pagina mientras se le continua dando mantenimiento
+    "SQLSTATE[42S02]" en el .env no esta bien configurada la base de datos(posibles errores de base de datos) 
   
   
