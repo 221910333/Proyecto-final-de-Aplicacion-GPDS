@@ -7,13 +7,13 @@ Es un servicio que permite la compra de lavaderos hechos de manera artesanalment
 
 Contiene dos roles de usuario:
     Usuario:
-        1.- Crear cuenta
-        2.- Iniciar sesión con cuenta creada
-        3.- navegar por los distintos productos (lavaderos, cruces, floreros, libros etc.)
-        4.- podrá ver más sobre la información del producto y agregar al carrito
+        1.- Crear cuenta.
+        2.- Iniciar sesión con cuenta creada.
+        3.- navegar por los distintos productos (lavaderos, cruces, floreros, libros etc.).
+        4.- podrá ver más sobre la información del producto y agregar al carrito.
         5.- en la parte superior derecha podrá visualizar el icono de un carrito donde al dar clic,
-        este lo direccionara a su tabla de carrito en este podrá ver los  productos que ha agregado
-        6.- En su carrito podrá vaciar carrito, eliminar del carrito (dar clic al carrito = la catidad de producto)
+        este lo direccionara a su tabla de carrito en este podrá ver los  productos que ha agregado.
+        6.- En su carrito podrá vaciar carrito, eliminar del carrito (dar clic al carrito = la catidad de producto).
         7.- Al dar click en finalizar compra lo direccionara a pagar con paypal si no tiene cuenta "le dira que no se pudo realizar la compra", 
         lo mandara a una vista donde podra descargar un pdf de su compra o un boton que lo direccionara a su historial de compras.
      Administrador: 
@@ -47,5 +47,8 @@ Contiene dos roles de usuario:
 # Bugs conocidos y posibles correcciones de errores:
     404 No encontrado(mal direccionamiento) abandonar pagina mientras se le continua dando mantenimiento
     "SQLSTATE[42S02]" en el .env no esta bien configurada la base de datos(posibles errores de base de datos) 
+    
+   ## Nota: Proyecto alojado en un servidor.
+    http://lavaderos.fabricadelavaderoseltigre.net/
   
   
